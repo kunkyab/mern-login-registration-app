@@ -1,3 +1,0 @@
-frontend - react
-backend - { for package.json - npm init -y, for nodemon - npm i nodemon, for express and mongoose - npm i express mongoose}
-Backend - 1st create a server file to write api to get username and password
